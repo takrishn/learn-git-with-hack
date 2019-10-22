@@ -1,6 +1,6 @@
 # learn-git-with-hack
 
-## What is Git?
+## What is Git? LMAOOOOOOOOO
 
 - Created by Linus Torvalds for the development of the Linux Kernel
 - Git is a distributed version-control system for tracking changes in source code during software development.
